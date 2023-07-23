@@ -39,6 +39,7 @@ This README explains the steps to deploy a proof-of-concept (POC) that integrate
     terraform apply plan.out
     ```
 Take note of the S3 bucket name from the output.
+
 ![output.png](img%2Foutput.png)
 ### 3.2 Uploading Images to S3
 Navigate back to the root directory of the project.
